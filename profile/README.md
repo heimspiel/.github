@@ -1,4 +1,4 @@
-# Welcome to Heim:Spiel, the home of digital sports data ⚽
+# Welcome to HEIM:SPIEL, the Home of Digital Sports Data ⚽
 
 ![An image showing an athlete approaching the finishing line](./profile/head.png)
 
