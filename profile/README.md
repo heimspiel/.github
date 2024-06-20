@@ -1,6 +1,6 @@
 # Welcome to HEIM:SPIEL, the Home of Digital Sports Data ⚽
 
-![An image showing an athlete approaching the finishing line](./profile/head.png)
+![An image showing an athlete approaching the finishing line](./head.png)
 
 We are a humble team of sports enthusiasts who are passionate about data and technology. We believe that the future of sports is digital, and we are here to help the world to make the most of it. With more than 20 years of experience in the field we provide all kinds of solutions related to sports data.
 
